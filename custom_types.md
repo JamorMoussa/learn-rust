@@ -30,6 +30,6 @@ fn main(){
 
 }
 ```
-The code above, shows us how to define a tuple struct, using the `struct` keyword. we define a `Point` that has two fields of type `f32`. Then we define a `p1` which is an instance, we can access to any item by index, like any tuple in rust.
+The code above, shows us how define a tuple struct, using the `struct` keyword. In this example we define a `Point` that has two fields of type `f32`. Then we define a `p1` which is an instance of the `Point` struct, we can access to any item by indexing it, like any tuple in rust language.
 
 
